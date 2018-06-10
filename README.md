@@ -7,4 +7,4 @@ The application logs in and issues the reboot command.
 
 It's quite specific and works only if you have Thomson and DIR wifi-routers. Most likely it's not gonna work for you unless you modify the code.
 
-![alt text](screenshots/py_restart.jpg "alt")
+![screenshot](screenshots/py_restart.JPG)
