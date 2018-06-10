@@ -1,0 +1,11 @@
+credentials.py
+/build
+/dist
+/ENV
+*.log
+main.spec
+router.spec
+WifiRestart.bat
+/.idea
+/__pycache__
+
