@@ -17,7 +17,7 @@ class ThomsonRestart():
 
         try:
             # Start Firefox browser
-            driver = webdriver.Firefox(executable_path=r'c:\py_ruuter\geckodriver.exe', firefox_options=options)
+            driver = webdriver.Firefox(executable_path=r'geckodriver.exe', firefox_options=options)
             driver.get(url)
             assert "Thomson Gateway" in driver.title
 
