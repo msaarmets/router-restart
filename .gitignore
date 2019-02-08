@@ -6,6 +6,7 @@ credentials.py
 main.spec
 router.spec
 WifiRestart.bat
+*.bak
 /.idea
 /__pycache__
 
